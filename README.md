@@ -2,6 +2,19 @@
 
 ![image](https://user-images.githubusercontent.com/71275875/170284760-4d65903c-f91c-408b-996d-d94ec361746f.png)
 
+-Roles del equipo de trabajo de Domotic-Control House-
+
+-Juan David Gomez Alarcon: Líder su trabajo es comunicar de manera clara con las personas de su equipo. Presta atención a la comunicación no verbal de tus trabajadores y trata de anticiparse a sus problemas y necesidades.
+
+-Juan Manuel Cardona Castillo. Programador su trabajo es programar en python para la realización del código del proyecto por medio de objetos y funciones para el uso de microcontroladores
+
+- Julian Felipe Garzón Rico: Investigador su trabajo es realizar un estudio del consumo de recursos en los hogares y como con nuestro proyecto podría mejorar a no desperdiciar recursos del hogar
+
+- Yoiser Moisés Padrón Rojas: Diseñador su trabajo es crear toda la parte visual del proyecto; maqueta, planos, circuitos eléctricos, logos, imágenes entre otros.
+
+
+
+
 Descripción del proyecto:
 
 El proyecto Docmotic-Contrtol-House se plantea en el contexto de la revolución industrial 4.0 y el uso de las TI en el ámbito urbano; debido a la constante necesidad del uso adecuado de los recursos naturales y en la búsqueda de incrementar y mejorar nuestra calidad de vida el proyecto nos ayuda a aprovechar al máximo todos los recursos que tenemos a nuestro servicio. Esto porque se puede programar y automatizar; abrir, cerrar, apagar, encender y regular los electrodomésticos, la climatización, la ventilación o la iluminación artificial. También se puede regular el funcionamiento de las persianas, puertas, cortinas, riego, suministro de agua o gas y en general casi todos los aparatos electrónicos y una muy buena cantidad de dispositivos en el hogar.
@@ -218,3 +231,14 @@ url_1: Utiliza el applet que envía datos de los sensores a una hoja de cálculo
               rojo.value(0)
               verde.value(1)
 
+
+
+Bibliografía.
+
+SECRETARÍA DISTRITAL DE PLANEACIÓN – SDP (2020). informe de Resultados sobre los indicadores de consumo de agua y energía Eléctrica en Bogotá años 2012 a 2019. Dirección de Estudios Macro, http://www.sdp.gov.co/sites/default/files/informe_final_agua_y_energia-ajustebandera.pdf 
+Triana W. (06 de octubre de 2020). Domótica,  Confort y responsabilidad con el medio ambiente. Valtio. https://www.valtio.com.co/tecnologia/domotica-confort-y-esponsabilidad-con-el-medio-ambiente/ 
+VARGAS P. (2016). El desperdicio de electricidad vale 4 billones de pesos al año. Portafolio. https://www.portafolio.co/economia/gobierno/electricidad-desperdicio-precio-ano-colombia-491546 
+Enersinc(2017).Energy Demand Situation in Colombia. Departamento Nacional de planeación. https://www.dnp.gov.co/Crecimiento-Verde/Documents/ejes-tematicos/Energia/MCV%20-%20Energy%20Demand%20Situation%20VF.pdf 
+Ruiz, L. (15 de agosto de 2020). ¡Ojo! En Colombia se desperdicia el 43 % del agua. Canal Capital. https://conexioncapital.co/colombia-desperdicia-el-43-porciento-agua/ 
+Riaño, N. ( 27 de julio de 2017). Cuatro de cada 10 litros de agua potable se malgastan en Colombia. La Republica. https://www.larepublica.co/responsabilidad-social/cuatro-de-cada-10-litros-de-agua-potable-se-malgastan-en-colombia-2530612  
+Endesa(11 agosto 2021). La domótica y el ahorro de energía. Endesa  https://www.endesa.com/es/blog/blog-de-endesa/consejos-de-ahorro/domotica-ahorro-energia 
